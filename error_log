@@ -1,0 +1,21 @@
+[18-Apr-2021 20:40:56 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'extrrzsq_offer'@'localhost' (using password: YES) in /home/extrwyem/public_html/admin/core/init.inc.php:67
+Stack trace:
+#0 /home/extrwyem/public_html/admin/core/init.inc.php(67): PDO->__construct('mysql:host=loca...', 'extrrzsq_offer', 'jdzLtrMUW}}H', Array)
+#1 /home/extrwyem/public_html/admin/controller/controller.php(43): include_once('/home/extrwyem/...')
+#2 /home/extrwyem/public_html/index.php(12): require_once('/home/extrwyem/...')
+#3 {main}
+  thrown in /home/extrwyem/public_html/admin/core/init.inc.php on line 67
+[18-Apr-2021 20:40:58 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'extrrzsq_offer'@'localhost' (using password: YES) in /home/extrwyem/public_html/admin/core/init.inc.php:67
+Stack trace:
+#0 /home/extrwyem/public_html/admin/core/init.inc.php(67): PDO->__construct('mysql:host=loca...', 'extrrzsq_offer', 'jdzLtrMUW}}H', Array)
+#1 /home/extrwyem/public_html/admin/controller/controller.php(43): include_once('/home/extrwyem/...')
+#2 /home/extrwyem/public_html/index.php(12): require_once('/home/extrwyem/...')
+#3 {main}
+  thrown in /home/extrwyem/public_html/admin/core/init.inc.php on line 67
+[18-Apr-2021 20:40:59 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'extrrzsq_offer'@'localhost' (using password: YES) in /home/extrwyem/public_html/admin/core/init.inc.php:67
+Stack trace:
+#0 /home/extrwyem/public_html/admin/core/init.inc.php(67): PDO->__construct('mysql:host=loca...', 'extrrzsq_offer', 'jdzLtrMUW}}H', Array)
+#1 /home/extrwyem/public_html/admin/controller/controller.php(43): include_once('/home/extrwyem/...')
+#2 /home/extrwyem/public_html/index.php(12): require_once('/home/extrwyem/...')
+#3 {main}
+  thrown in /home/extrwyem/public_html/admin/core/init.inc.php on line 67
