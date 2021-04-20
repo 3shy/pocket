@@ -14,9 +14,9 @@ $B = array();
 //  Database details
 
 $B['DB_HOST'] = "localhost";        //localhost or your Database host
-$B['DB_NAME'] = "extrwyem_Nim";        //your Database name
-$B['DB_USER'] = "extrwyem_zxgnffj";        //your Database user
-$B['DB_PASS'] = "Aa@010240";    //your Database password
+$B['DB_NAME'] = "extrrzsq_offer";        //your Database name
+$B['DB_USER'] = "extrrzsq_offer";        //your Database user
+$B['DB_PASS'] = "jdzLtrMUW}}H";    //your Database password
 
 
 // TimeZone - Uncomment the below and change it to your Local Timezone (optional)
